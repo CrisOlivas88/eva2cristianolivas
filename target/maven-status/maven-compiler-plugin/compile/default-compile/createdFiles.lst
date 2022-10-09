@@ -1,0 +1,8 @@
+models\dao\NonexistentEntityException.class
+models\dao\PreexistingEntityException.class
+com\mycompany\actividadcalificada1\resources\JavaEE8Resource.class
+controllers\controllerCliente.class
+models\entities\Cliente.class
+models\dao\IllegalOrphanException.class
+models\dao\ClienteJpaController.class
+com\mycompany\actividadcalificada1\JAXRSConfiguration.class
